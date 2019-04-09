@@ -1,2 +1,2 @@
-# KarmaReturns
+# TrueReward
 game for cop
