@@ -1,0 +1,45 @@
+Comments(By Lakshay): I feel idea of TrueReward is very straightforward and easily distinguishes between good and bad(sort of boring), rather we should leave some ambiguity of decisons to users themselves.
+
+
+Idea 1:(I like this more)
+
+	Can have  puzzle type game, where we are a country's decision maker, and there are 4 parameters of our country:
+
+	1. Noise Pollution
+	2. Air Pollution
+	3. Land Pollution
+	4. Water Pollution
+	5. Money available
+
+	The pollution parameters will always keep increasing, with more money we can buy equipments that reduce their increase rate.
+
+	Different events related to our country are taking place(Dont need a lot of events, same event can occur after some time again)
+	Events like:
+	1. A world leader coming to our country(Will increase noise pollution but can decrease Air pollution since that country can give us better technology for air purifierws))
+	(A choice whether to invit that leader or not)
+	2. A tsunami in the nearby Ocean(Tsunami increases water pollution: Choice: To treat the water polluted, will decrease the money but wont affect water pollution)
+
+	When one of the pollution crosses a barrier value, game ends. 
+	Aim to last as much time as possible.
+	(Can make it multiplayer also as 2 countries have can help each other so they last longer)
+
+Idea 2:(More difficult to implement, hence, not preferred)
+
+	Game on parental pressure on Children.
+	Our player is a parent raising his/her child.
+	Like above game, here also parameters like 
+	1. Kid's intelligence
+	2. Respect towards parent
+	3. Kid's sense of responsibility
+	4. Kid's mental health
+
+	Events like:
+	1. Kid wants to go to play at 8 PM(Choice: Let him go- Decreases his sense of responsibility OR Stop him: Increases his sense of responsibility but decreases respect toward parent)
+	2. Gets low grade(Choice: Shout and punish him OR Console him and help him)
+	
+	Aim: To make every parameter cross a certain barrier
+
+
+
+
+	  
