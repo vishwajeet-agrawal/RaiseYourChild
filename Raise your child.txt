@@ -1,0 +1,197 @@
+﻿Parameter:
+Parameter breakup
+Each level broke from 1 to 100
+Expected to reach level 10 by the age of 20
+Average points 1/week so a range of -2 to 6 per month
+Wisdom level, -2 to 6
+Satisfaction no level neg to positive
+Motivation: Levels 
+Social Awareness: Levels
+Physical health 0 to positive
+Confidence negative to positive to overconfidence
+Experience levelled 0 to pos
+Relationship 0 to positive
+Story:
+Raise your child is decision making game for your child. What decisions you take for him will change the course of his life substantially. Each decision will have an immediate effect and a lasting effect on your child. Before taking a decision you will be presented with a dilemma describing the possible consequences of the particular choice. So choose wisely and raise your child wisely. On a side note, what is the beautiful name you want to give to your child ?
+Prologue:
+You
+Seq1:
+You have just given a birth to a boy. Look he is so cute just like his father. The omens says he is going to become a great man and make everyone proud. You sure are going to play a major role in deciding his destiny. Make good decisions and don’t let your child let out of your hand.
+At the same time, let him also be free to make his own decisions when he wants to!
+
+
+Seq2: 
+It is his 1st birthday and (*child name*) has already started walking a bit. Must be thinking to gift him with a beautiful present? Let’s gift him with something!
+1. A toy / --
+2. A story book / -- 
+Seq3 
+The spring is just ahead. Beautiful flowers are to be seen everywhere and no one will want to leave the lap of the nature. How about spending a day in a lovely park with your child. 
+--- You see that your child is so happy playing with other kids. You think of sending him to a play school to bring more joy to him. 
+What are the different schools available ?
+No, it is too early to send him to school, let him play regularly in the picnic only.
+---later
+The spring has ended and the temperature is rising. The other kids that came to the park have started going to schools and there is hardly any child that comes now. Maybe it is also the time to send *c n* to school now.
+The town has two play schools
+1.         2.
+The town has two primary schools  
+1. The first school is a little far off from home. It requires half an hour to reach there by van. The school boasts modern infrastructure and qualified faculty. The fees are very high and only a few can afford to put their child in this school. The school has various extra subjects like French, German, Guitar, Piano, etc. enrolling in which will make your child an allrounder.
+2. The second school is only 2 blocks away from home. A walk takes 5 minutes to reach. The school although doesn’t has a very good infrastructure but the faculty is group of senior wise people who belong to this town and is very good. Children from all background study in this school and the principal of this school has dedicated few seats in every class for children who can’t afford a penny. These children come from nearby villages.
+Seq4:
+        You see that your child spends most of his free time in home after coming from school and is not involved in any productive and useful activities. How about sending him to a learning or activity centre in the evening? 
+1. No let him remain in the home, I don’t want my child take too much load
+2. Let explore what all places are there in the town.
+O1. Extra tuitions to help him in school subjects 
+        -- probability of excelling in school increases
+O2. Music classes
+-- Music sure has made a positive effect on the mind of your child. He has become more quiet now. 
+O3. Nearby Gurudwara to help in the langar
+        -- Your child has become more 
+O4. 
+
+
+(w,s,c,r,h,m,s,e)
+Some events that took place in school
+1.
+2.
+Habits
+Daily routine:
+1. Going to school
+2. Going to religious place
+3. Going to extra tuition, swimming classes, sports classes
+4. Division of 24 hours into daily activities.
+
+
+Main regular events
+1. Covering every birthday
+
+
+4 years
+What will you like to gift your child this birthday.
+
+
+
+
+
+
+
+
+
+
+
+
+Achievements 
+1. The child has gained a lot of praise from friends and teachers. And he was made the head boy of the class. A lot of responsibility is on his way now! (Experience ++) 
+2. The local head of the community has awarded your child and his friend for saving a drowning cow.
+3. Your child is showing great academic excellence. He has just aced a scholarship exam.
+
+
+Events in play school
+1. 2. Your child is showing great enthusiasm for learning new things and it is time to send him to the primary school now. By the way don’t forget it is also his birthday a day after tomorrow.
+Events in primary school:
+1. Your child is showing great academic excellence. He has just aced the half yearly exams. (On sending tutions) 
+
+
+Some random events:
+At the age of 14
+        E1: Your child has made a new friend, Aisha in the school and he is asking to go to her home in the evening. 
+O1.          (r--)
+O2. Let him go. (r++)
+        
+If let him go
+         E2:He has started going very frequently to visit Aisha’s home. You also come to know that his performance in the school has started decreasing.
+O1. Scold him, and debar him from getting out of the house in the evening. (r-2)
+O2. Advice him to be focussed on studies and do not spend too much time with Aisha. (r++)
+        
+        If scloded:
+Your child had a fought with Aisha and he is very sad now. He is in no mood of going to schools even. He is making all sorts of excuses not to go to school. What do you do? (wisdom -school.rate)
+O1. Scold him and make him go to school. (r-3)
+O2. Let him take a few days rest. Spend more time with him. (r+3)
+
+
+If spent more time with him 
+He feels better now and has started going to school again. (wisdom +current.rate)
+If scolded 
+w+curr.rate/
+Else if told him to stay at home:
+        E: You see that sometimes, he returns late from school. You doubt that he goes to Aisha’s home sometimes. What do you do?
+O1. Let’s not doubt your child too much and actually tell him that you can go once a week to her home and sometimes also call her to your home. (r++)
+O2. You warn him to come to home by time and do not go anywhere in between. (r--)
+
+
+You think that to make 
+        E3:
+        E4:
+After 10 years
+
+
+Sources of wisdom:
+1. School
+2. Going to village trip
+3. Spending time with his grandmother
+
+
+Sources of social awareness:
+1. School (0 in first 1 in second)
+2. Helping with langar in Gurdwara (1)
+
+
+Changes that are caused by one time events
+1. E1
+2. E2
+3. E3
+4. E4
+5. E5
+6. E6
+7. E7
+8. E8
+9. E9
+10. E10
+
+
+Sources Associated with the child:-
+1. Play School / Primary school/ secondary school
+2. Gurudwara Langar help
+3. Music Classes
+4. Community involvement
+5. Spending time with grandmother
+6. Tution Classes
+7. Hangout with friends
+8. Local Hospital
+9. The small primary school of poor kids nearby to teach them
+10. Sports activity center
+11. Kind of friend circle (Rich / Poor) (important for intermediate school)
+
+
+Play School at the age of 3:
+
+
+Primary School at the age of 5:
+
+
+Intermediate school at the age of 10: 
+O1. Every friend of your child has got a phone of his own. “Name” also wants to have a phone. Would you buy your child a phone?
+1. Yes - It would help him to interact with his friends more and become socially active. But reducing confidence and interaction skills in daily life.
+2. No - The interaction of your child is reduced with your friends. He is not able to catch up with the gossips of his friends. So, his confidence has decreased. But know he studies even more.
+ O2. You have decided to make a broadband connection at your home as it has become a need. But, you are worried about its consequences on your child. What would you do in thid scenario?
+1. Make Restriction on Internet Usage and sites he visit. No internet after 10 o’clock.
+2. Allow Complete freedom over the internet as restriction might hinder the learning from the internet resources.
+
+
+High School at the age of 15:
+O1. Rich school 
+O2. Moderate school with extra tuition classes
+O3. Your child is participating in the annual function of the school. He is a responsible student and has taken various responsibilities in the school from conducting an event to inviting guests. The board exams are only 2 months away and you are worried about his performance in the 10th Board. What will you do in this situation?
+1. Tell him to not to work on this annual function and focus on the study
+   1. Outcome: - He gets more marks in the exam but he is sad becoz of restrictions on him
+1. Let him do whatever he desires
+   1. Outcome:- He gets fewer marks in the exam and thus he became sad later but right now he is happy
+O4. The board exams are over and results are yet to come. You and your child are in a dilemma of which stream to choose. Your child thinks that he is very good at photography and wants to pursue a career in films and photography. What is your decision?
+1. It is his decision. Allow him to join Films and Photography College in Mumbai
+2. You advise him to choose engineering or medicine and prepare for the entrance examination.
+3. You take him to a counselor to discuss upon this.
+O5. 
+
+
+
+
+College at the age of 17:
